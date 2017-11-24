@@ -1,0 +1,10 @@
+#XML examples
+
+Examples of XMl done in LMSGI class.
+
+##Simple XML
+This is an example_of_a_XML
+<note>
+  <to>Bryansito</to>
+  <from>Me</from>
+  </note>
